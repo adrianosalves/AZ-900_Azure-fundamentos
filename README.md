@@ -75,6 +75,31 @@ Oferece um ambiente que voce crie, teste e implanta com aplicativos de software 
 
 Os usuario se conectam e usam aplicativos com base em nuve pela internet por exemplo, Microsoft Office 365, email e calendarios.
 
+# Modelos de Nuvem
+
+Iaas: 
+.Serviço de nuvem mias flexiveis
+.Voce confgura  gerencia o hardware para seu aplicativo
+
+PaaS
+.Foco no desenvolvimento de aplicativos
+. Ogerenciamento da plataforma é manipulado pelo provedor de nuvem.
+
+SaaS
+.Modelo de preco de pahgamento confrme o uso
+.Usuario pagam ple software que usam em um modelo de assintura.
+
+Modelo de responsabilidade:
+
+Ex:
+
+Iaas: Carro na locadora (Localiza): Entregar com o tanque cheio e etc...
+Paas: Uber vice direciona...
+Saas: Onibus rota tracada.
+
+
+
+
 
 
 
