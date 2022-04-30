@@ -98,6 +98,39 @@ Paas: Uber vice direciona...
 Saas: Onibus rota tracada.
 
 
+# Computacao sem servidor - Server less
+
+Azure functions: codigo é executadas exemplo para autopreencimento.
+
+Aplicativo logico do Azure: Automatizar tarefas fluxo de trabalho sistemas e serviços.
+
+Grade de Eventos: Compilar aplicativos com base em eventos, gerenciar e controlar todos os eventos.
+
+Analise mais detalhes as categorias mais usadas:
+
+1.Computacao
+2.Rede
+3.Armazenamento
+4.Movel54.Banco
+5.Web
+6.Iot
+7.Big Data
+8.IA
+9. DevOps
+
+Hierarquia
+
+1.Management Groups
+2.Subscriptios
+3.Resources Groups
+4.Resoureces
+
+
+
+
+
+
+
 
 
 
