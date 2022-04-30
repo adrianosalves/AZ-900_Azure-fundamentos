@@ -3,6 +3,10 @@ AZ-900_Azure-fundamentos
 AI_900 - 
 DP_900 - 
 
+Codigo 900 - Nivel basico naquela ferramenta.
+
+
+
 Curso inicial para abiente em cloud marco 0 para ter uma base inicial para solução Microsoft!
 
 Preparação para Certificação!
