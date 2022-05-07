@@ -316,6 +316,50 @@ Permite que os clientes do SQL facam a migracao do SQL para a Nuvem.
 É uma loja que permite voce localizar experimentas e comprar os aplicatios e serviços de centenas dos principais provedrdores de serviços certificados  para execução.
 
 
+# Modulo 3 - IoT Internet das Coisas
+
+O que é IoT: São aparelhos que conseguimos comunicar com a Internet exemplo hoje existe aparelhos de Ar Condicionado que voce consegue acessar antes de voce chegar na sua resisidencia seu apapareho pode sr programado para ele ligar antes de 15 min para quando voce cehgar o ambiente esteja na temperatura ideial. 
+
+Azure ioT Cenral: é uma expecie de console onde centralizado todas as questoes de generenciamento da Internet das coisas, essa interface é bem visual e faciltta conectar, monitora e gerenciar ativos de IoT em escala.
+
+O hub IoT do Azure: é um serviço gerenciado hospedado na nuvem que atua como um hub central de mensagens para comunicoacao bidirecional entre os aplicativos ede IoT e dos dispositivos que ele gerencia.
+
+O Azure Shpere ´e uma plataforma de aplicativ segura e de alto nvel com recusos intrenos de cmo comunicao e seguranca para dispositivos cnectados a internet.
+
+Azure IoT Edge: é um servio totalmente gerenciado desenvolvido om base no hub IoT do Azure. Impmate suas cargas de Trbalaho de nuvem - serviços de intelegencia artificail do Auzre e de terceieros ou sua propria logica de negocios - para serem exeuctaddas em dispositivos Ipor o pde dados or meio de conteieres..
+
+# Big data e analise: Grande variedades de volume em constante mudanças.
+
+Variedade, Volume e Velocida.
+
+fonte adicional
+
+Asure Synapse Analytice: analise ilimitada, data warehouse empresarial
+
+Azure HDInsight: Apache Hadoop
+
+Azure Databricks: Apache Spark
+
+Azure Data Analytics: transformação paralela
+
+# IAe Machine Learning
+
+Azure Machine Learning: baseado em nuvem para desenvolver , treinar e implantar modelos de machine learning.
+
+Serviços Cognitivos: habilidade  rapidamente os aplicativos para ver, ouvir, falar, entender e interpretar as necessidades de um usuarios.
+
+Serviço de Bo do Azure: desenvolver bots inteleigentes de nivel empresarial.
+
+OBS:  que é Bot? É um robo que automatiza tarefas um agente virtual. Exemplo: Claro, Whatsapp atendimento virtual. Ele inicia uma conversação com base em respostas de frma intelifencias com a IA.
+
+# Tipos de Serviços cognitivios:
+
+Language, SPeech, Vision, Decision
+
+
+
+
+
 
 
 
