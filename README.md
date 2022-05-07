@@ -125,6 +125,217 @@ Hierarquia
 3.Resources Groups
 4.Resoureces
 
+# Modulo 2: Princípios básicos do Microsoft Azure: descrever os principais serviços do Azure
+
+https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-core-azure-services/
+
+Quiz; Simulação de aprendizado. (https://quizizz.com/join/game)
+
+O que um é uma região: POsso alcar recursos compostas de DataCenters.
+
+Exemplo: Brazil é uma regao compostas de um ou mias DataCenters.
+
+Busque uma região que tenha uma baixa latencia proximo do seu Pais e leve em consideração o Custo disso.
+
+Atualmente existe mais de 60 regioes dentro do Azure em ais de 140 paises.
+
+OBS: LGPD algumas leis exige que as informações esteja armazenado naquela região de acordo com a LGPD.
+
+Os DataCenters são replicadas para outras regiões espalhada no mundo (Para outras cidades ou Paises).
+
+# Pares de Regiões
+
+No minimo 300 milhares de serapacao entre pares de regioes.
+
+https://aka.ms/PairedRegions-ptb
+
+# Zonas de disponilidade
+
+. O que é? Conjunto de DataCenters ex: 3 ou mais...
+. O DataCentre não tem como escolher. Escolhesmos a Região.
+. Podemos escolher a zona de disponibilidade > SLA (Disponibilidade de serviço %99,9).
+. Zona de Disponibilidade não tem SLA ...
+
+Em que momento devemos escolher a zona de disponibilidade?
+Vai depender do estado critico da aplicação?
+Como podemos medir isso dentro do Azure?
+
+Zona de Disponibilidade: Proteção contra falha (Falha Fisica no DataCenter- alagamento e etc....!
+
+Por que o Recuperacao de Desastre não tem SLA? ..Por que o tempo pode ser variavel de acordo com o ambiente.
+
+Zona de Disponibilidade dentro dessa região.
+
+Um recurso precisa estar alocado a um grupo de recurso. (Exe: Uma pasta):
+. Um recurso é unico.
+
+É parecido a um Container.
+
+Grupos de recursos:
+
+. Os aplicativos podem utilizar varios grupo s de recursos.
+
+. Grupo de Recusos: Facilita a organização pelo tipo, pelo uso e localização, administração bem organizada facila Administração e Gerenciamentos.
+
+. Grupo de Recursos dentro de Outro não pode existir não são aninhados...
+
+.Assinatura Financeiro
+.Assinatura MKT
+.Assinatura RH
+
+# Azure Resoure Manager
+
+. Faz um API o meio de campo para permitir ou negar determinado serviço, crie atualize ou remova determinado recurso.
+
+.Portal do Azure, PowuerShell, CLI, Clientes REST ---> SDKs ---> Azure Resource Manager <-->
+. Banco de Dados, App Web, VPC, Gerencias Servicos, Outros....
+
+# Principais Caras de Trabalho no Azure - Dominio de Objetivo
+
+Descrever os beneficios e o uso de:
+
+Servcos de computação do Azure
+
+Computacao do Azure é um serviço de computacao sob demanda que forbece recursos de computacao, como discos, processadores, memoria, rede e sitemas operacionais.
+
+1. Maquinas virtuais do Azure (VM): S]ao emuadores de software de computadores fisicos.
+
+. Inclui processador virtual, memoria, armazenamento e rede.
+
+. Ofertas de IasS que oferece personalizacao e controle total.
+
+Orientacao de como criar uma maquina virtual (De exemplos).
+
+# Serviços de Aplicativos do Azure
+
+Serviços de aplicativos é uma plataforma totalmente gerenciada para criar , implantar e escalar aplicativos web e APIs com rapidez.
+
+Oferta de PaaS com requistos de nivel corporativo de desempeho, segurança e conformidade.
+
+Trabalha com NET.NET Core, Node.js, Java, Python e outras.
+
+#  Serviços de Conteiner do Azure
+
+Instancias de Conteiner do Azure: Uma Oferta do PaaS que executa um containe no Azure sem precisar gerenciar uma maquina virtual ou serviços adicionais.
+
+Serviços de Kubernets do Azure: Um serviço de orquestacao para conteiners com arquitetura e grandes volumes de conteineres.
+
+# Area de Trabalho Virtual do Azure
+
+É um especie de viirtualização do Desktop na nuvem.
+
+. Criar um ambiente completo de virtualizacao da area de trabalho sem precisar executar outros servidores de gateway.
+
+. Publicar pools de host ilimitados para acomodar várias cargas de trabalho.
+
+. Reduzir custos com recursos em pool, com várias sessoes.
+
+# Serviços de rede do Azure
+
+A rede virual (VNet) do Azure permite que recursos do azure se comuniqye entre si e com a rede locais.
+
+O #Peerin# permite a integracao de varias redes virtuais conectadas por meio do Azure.
+
+#  Serviços de rede do Azure
+
+O Gateway de Rede Virtual Privada (VPN) é usada para enviar trafego criptografado entre uma rede virtual do Azure e uma rede local na internet. Um tunel de acordo com todas as normas de segurança. Trafego entre pontos de rede camada 'Autenticacao'.
+
+Ex:
+
+VNet <---> VPN Gatewaye (VPN) <---> IPSec IKE S2S VPN <---> On-premises LocalSite 1 (VPN)
+
+# Serviços de Rede do Azure
+
+O Express Roue do Azure permite a conexao da minha rede privada a rede do Azure.
+
+- Camada 2 (L2): Essa camada de vinculo de Dados, que fornece comunicacao de nó entre ddois nós na mesma rede.
+
+
+- Camada 3 (L3): ... endereço e roteamento entre nós em uma rede de varios nós.
+
+# Azure networks servces.
+
+. Azure Load Balancer: Faz o escalonamento automatco para criar um acesso de alta disponibilidade para acessar aplicações ou recursos.
+
+. Content Delivery Network (CDN): é uma rede distribuida, colocando uma copia dos arquivos em todos os servidores, e na hora que voce vai fazer um download desse arquivos possa ser encontrado em um servidor mais proximo e diminua a latencia.
+
+. Azure Application Gateway: é um balanceador de carga do trafego da Web qe permite que voce gerencie o trafego para seu aplicativo Web. Trafego entre aplicações, camada OSI 7 de aplicação.
+
+# Tipos de Armazenamento Dados:
+
+.Estrturados: 
+
+.Semi-estrturados:
+
+.Desinstruturados: Não possue estrutura de dados definida, BLOBs (Binary Large Objects).
+
+# Armazenamento
+
+.IaaS: Discos, Aruqivos
+
+.PaaS: Containesr, Tabelas, Queues(Filas)
+
+# Serviços de Armazenamento do Azure
+
+.O Armazenamento de conteiner (blob) é otimizado para armazenar grandes quantidade de dados não estruturados, como dados binarios ou de texto.
+
+.O armazenamento de disco fornece disicos para maquinas virtuais aplicativos e outros serviços acessarem e usarem.
+
+.Os arquivos d zure configuram compartilhamento de arquivos de rede altamente (SMB). Armazenamento compartilhado entre VM e conteiners.
+
+# Camadas de acesso de armazenamento do Azure
+
+Host: 
+
+Cool:
+
+Archive:
+
+# Serviços de Bacno de Dados do Azure (Paas):
+
+. Azure Cosmmos Database é um banco de dados relacional como serviço de banco distribuidoalmente que escala de maneira elatica e independente taxa 99.999% globalmente.
+
+
+SQL do Azure
+
+
+MySQL
+
+PostgreSQL
+
+
+Azure DatabSe Migration Service.
+
+
+# Instancia Gerenciada de SQl do Azure
+
+Permite que os clientes do SQL facam a migracao do SQL para a Nuvem.
+
+# Explorar o Azure MarketPlace:
+
+É uma loja que permite voce localizar experimentas e comprar os aplicatios e serviços de centenas dos principais provedrdores de serviços certificados  para execução.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
