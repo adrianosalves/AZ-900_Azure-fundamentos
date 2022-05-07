@@ -374,6 +374,62 @@ GitHub Actions para Azure: automatizar o fluxo de trabalho de software para cria
 
 Azure DevTest Labs: criar rapidamente ambientes no Azure enquanto minimiza os gastos e controla os custos.
 
+# Ferramentas de Gerenciamento no Azure (ARM):
+
+Portal do Azure: Painel via Web
+
+Azure PowerSell: Linux, Windows  Ma
+
+APlicativo Movel do Azure: Android e IOS, coisas mais simples iniciar e parar uma VM, mas para gerenciar é muito pequeno.
+
+Interface de Linha de Comando (CLI): Baixar o instalador para seu computador semelhante ao powershell, porem os comandos é mais voltado para o Linux. Pode ser instalado WIndows, Linux e MAC.
+
+API REST do Azure: Permitir Gerenciar e Excluir recursos... ão APIS para obter possibilidade de explorar mais recursos.
+
+Azure Cloud Shell: É uma console por linha de commando pela pagina Web.
+
+# Azure Advisor
+
+É uma ferramenta para informar o que precisa ser melhorado dentro da plataforma. Ele faz recomendações com base nas melhores práticas para otimizar as implatações do Azure. Também acessível por API e voce pode configurar otificações com base nas melhores práicas pra otimizar as implantações.
+
+
+
+# Azure Monitor
+
+É uma afrerrameta pra monitorar a situação do seu ambiente não faz recomendações faz o gerenciamento da saúde do seu servidor ( Memoriar, CPU espaçõ em disco) atraves do painel personalizaveis. Monitora e toma ações de acordo com as metricas e politiia definida pelo Administrador do ambiente.
+
+Application Inights: Metricas e Logs de Aplicações com rastreamento e mapeamento fima-fim
+Log Analytics:
+Alerts:
+Automation Buscas: 
+
+# Integridade do Serviço do Azure / Azure Service Health
+
+Avaliar o implacto de problemas de serviços do Azure com atualizações personalizadas de orientacoes , suporte, ntiticações e resolução de problemas. Personalizar relatorio para enviar para seu cliente sobre uma determinar Maquina Virtual.
+
+Ele é mais focado em manuteções planejadas se aplica em ponto de atenção fora do ambinete de alta disponibilidade que não impacta no ambiente de alta disposniblidade.
+
+# Modelos do Azure Resource Manager (ARM)
+
+São arquivos JavaScript Object Notation (JSON) que pode ser usados para criar e implantar a infraesrutura do Azure sem precisar gravar comandos de proramacao.
+
+. Sintaxe declarativa
+. Resultados repoduziveis
+. Orquestração
+. Arquivos modulares
+. Validação integrada
+. Codigo exportavel
+
+OBS: É possivel importar maquina via arquivos (JSON) e deixar as maquinas ativas de foma muito mais rapida.
+
+
+
+
+
+
+
+
+
 
 
 
