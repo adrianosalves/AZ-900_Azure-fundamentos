@@ -348,13 +348,35 @@ Azure Machine Learning: baseado em nuvem para desenvolver , treinar e implantar 
 
 Serviços Cognitivos: habilidade  rapidamente os aplicativos para ver, ouvir, falar, entender e interpretar as necessidades de um usuarios.
 
-Serviço de Bo do Azure: desenvolver bots inteleigentes de nivel empresarial.
+Serviço de Bo do Azure: desenvolver bots inteligentes de nivel empresarial.
 
 OBS:  que é Bot? É um robo que automatiza tarefas um agente virtual. Exemplo: Claro, Whatsapp atendimento virtual. Ele inicia uma conversação com base em respostas de frma intelifencias com a IA.
 
-# Tipos de Serviços cognitivios:
+# Tipos de Serviços cognitivios IA:
 
-Language, SPeech, Vision, Decision
+Language, Speech (Converte fala em texto), Vision, Decision
+
+A capacidade de buscar infromacoes e obter resultados muito satisfatorio.
+
+# Computação sem Servidor
+
+.Azure Functions: Buscar informacoes e obter resultas Codigo baseado em evento executando o serviço e não a infraestrturua subjacente. Linguagem de prograacao de sua preferenceia.
+
+.Aplicativos Lógico do Azure: automatizar e orquestrar tarefas e integracao com outros aplicativos.
+
+# Desenvolver aplicativos com DevOps e GitHub (Certificação AZ-400)
+
+Azure DevOps: ferramentas de colaboradores de desenvolvimento, inluindo pipelines, cartoes Kaban e teste de carga automatizados baseados em nuvem.
+
+Github: hosting de desenvolvimento de software com controle de versão, gerenciamento de código-fonte e gerenciamento de bugs/tarefas.
+
+GitHub Actions para Azure: automatizar o fluxo de trabalho de software para criar , testar e implantar de dentr do GitHub.
+
+Azure DevTest Labs: criar rapidamente ambientes no Azure enquanto minimiza os gastos e controla os custos.
+
+
+
+
 
 
 
