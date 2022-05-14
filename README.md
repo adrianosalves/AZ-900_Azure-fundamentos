@@ -422,6 +422,166 @@ São arquivos JavaScript Object Notation (JSON) que pode ser usados para criar e
 
 OBS: É possivel importar maquina via arquivos (JSON) e deixar as maquinas ativas de foma muito mais rapida.
 
+# Treinamento de Resumo Modulos 1,2,3 e depois um simulado para medir um conteudo absorvido do Microsoft Learn:
+
+Resumo:
+
+# O que é computação em nume?
+
+É a entrega de serviços de computação por meio da internet, possibilitando um inovação mais rapida, recursos flexiveis e economia de escala.
+
+COimputacao, rede armazenade, ...
+
+# Nuvem pública
+
+. Pertence a serviços de nuvem ou Provedor de hosting
+
+. Fornecer recursos e serviços a varias origaniacçoes e usuarios
+
+. Acessados via conexao de rede seguran (Geralmente pela internet)
+
+** DICA: Sabemos a região, mas não o datacenter em que esta alocado. **
+
+# Nuvem privada
+
+. As organnizações criam um ambiente em nuvem em seu datacenter.
+
+. É responsavel por operar os serviços que fornece
+
+. Não fornece acesso aos usarios fora da organização.
+
+# Nuvem hibrida
+
+. Combina as nuvens Publica e Privada para permitir que os aplicativos sejam executadas no local mais apropriado.
+
+Ex: Aplicativos em nuvem Pública e o Banco de dados local.
+
+Muito utlizado atualmente pode ser o mas seguro vai depender da situação. Cada caso precisa ser analisado.
+
+# Comparativos do modelo nuvem
+
+Publica : 
+. Nunhuma despesas de capital para escalar veriticalmente
+
+Privada:
+. O hardware dee ser adquirido para inicial manutenca
+
+Hubrida:
+. Oferece a maior flexibilidade
+
+** Consultar imagem **
+
+# Beneicios da Nuvem
+
+Alta disponibilidade: Obter o recurso de quando eu preciso, essa semana em apenas alguns cliques, exe: aumentar um HD.
+
+Tolerancia a falhas: Replicacao de informação (Entreve VMs) mesmo que acontece um problema no HD, Fonte Queimada, meu serviços continuar funcionando. É diferente de Desastre Recovery.
+
+Escalabilidade: Mudanca de recursos ex: Memoria, HD e etc... Pode ser vertifical (Hardware) e Horizontal (Maquina Virtual no limite e desejo criar uma outra para dividir a carga de trabalhar entreas as maquinas).
+
+Elasticidade: Aumento de recurso para atender a minha necessidade Ex: Black Friday, . Eslasticidade permite fazer a escalabilidade.
+
+Alcance global: Todo provedor de serviço tem Datacenter espalhado nos 4 cantos do mundo.
+
+Capacidade de Latencia: Possibilia um tempo de resposta muito baixo, permitindo uma resposta mais rapida.
+
+Agilidade: Escluir um recurso rapidamente.
+
+Consideracao sobre custo preditivo: Estimativa de custos, não preciso, mas te dar um previsão atraves de uma calculadora.
+
+Recuperacao de Desastres: Tenho um problema preciso subir o serviço em outra região sai do Brasil e vou para EUA. Não tem SLA para essa situação.
+
+Segurança: Nivel de segurança é mais elevado mais que um servidor interno, a Microsoft investe e disponibiliza recursos para manter seus servços segurança.
+
+OBS: 
+
+# Comparar CapEx e OpEx
+
+. CapEx: OnPrimise gastos com infrastrutura gasto inicial de dinhiero
+
+. OpEx: Compra sobre demanda paga depois de 30 dias depois será pago.
+
+# Modelo baseado em consumo
+
+. Melhor previsao de custos
+
+# Serviços de Nuvem - Dominio de Objetivo
+
+As responsabilidades vão aumentando...
+
+. IaaS: 
+. Suporte Local maior responsaverl
+. Armazenamento, Rede e Sistemas Operacional
+. O Cliente escolhe o Sistema Operaciona e realiza toda a manuteção...
+. Serviço mais flexivel configura e gerencia o Hadrware para o aplicativo
+
+. PaaS:
+. Não me preocupo com a Infraestrutura
+. Muito ultizado em Banco de Dados
+. Gerenciamento da plataforma e feito pelo Provedor da Nuvem
+
+. SaaS: 
+. Provedor é responsavel pela manuntenção...
+. Utiliado com serviços Teams, Google Drive, Office 365.
+. Pago em modelo de Assinatura
+
+
+# Computação sem Servidor
+
+. Azure Functions: Consultar pequenas tarefas
+
+. Aplicativos Logicos do Azure: Automatizar tarefas...
+
+. Grade de Eventos: Monitoramento do dois acima...
+
+# Contas do Azure
+
+Para acessar o Azure é necessário a criação de uma conta que será sempre gratuita (Acessar ao Azure):
+
+A assinatura será paga de acordo com os recursos que forem usado.
+
+Podemos ter varias assinaturas dentro de uma conta.
+
+Limite de controle de acesso.
+
+@cocacola.com.br
+. Assinatura pode criada; com perfil diferente; (Granular com detalhes de acordo com a necessidade);
+
+# Modulo 2:
+
+# Regiões
+
+. Uma região pode permitir uma baixa latencias, quanto mais proximo maior o custo, e pode ser que seja necessário de acordo com a LGPD.
+
+. Permite escolher um custo de acordo com o bolso atraves de uma calculadora de custo.
+
+. Toda região tem um par e replica as informações para outra região, caso tenha um desater recovey ele sera acionado e ativa os serviços em outra região.
+
+# Zona de Disponibilidade (Datacenters espalhados)
+
+Região --> Zona 1 (datacenters), Zona 2 (datacenters), Zona 3 (datacenters)
+. Protege contra falhas de inatividade.
+
+Datacentre sempre será retrito a mesma região? ou ele pode ter uma maior abrangencia de região?
+
+# Recursos do Azure
+
+Maquinas Vitruais, Contas de Armazenamento, Redes Virtuais, Serviso Web, Bacnos de Dados, Funções
+
+# Grupo de Recursos
+
+. É igual uma pasta que armazena (recursos do azure)
+. Os recurso so pode estar em um grupo de recursos
+. O recursos pode existir em diferentes regiões.
+. Os recursos pode ser movido para diferentes grupo de recursos.
+. Os aplicativos pode utilizar varios grupo de recursos.
+
+# Azure Resource Manager
+
+. É camada do Azure que permite o gerenciamento de criacao ou exclusão de um determinado recursos (Portal Azure, CLI, PowerShell, Cliente REST).
+
+
+
 
 
 
