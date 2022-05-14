@@ -342,37 +342,37 @@ Azure Databricks: Apache Spark
 
 Azure Data Analytics: transformação paralela
 
-# IAe Machine Learning
+# IA Machine Learning
 
-Azure Machine Learning: baseado em nuvem para desenvolver , treinar e implantar modelos de machine learning.
+Azure Machine Learning: baseado em nuvem para desenvolver , treinar e implantar modelos de machine learning (Aprendizagem de maquina).
 
-Serviços Cognitivos: habilidade  rapidamente os aplicativos para ver, ouvir, falar, entender e interpretar as necessidades de um usuarios.
+Serviços Cognitivos: habilidade rapidamente os aplicativos para (ver, ouvir, falar, entender e interpretar) as necessidades de um usuarios.
 
 Serviço de Bo do Azure: desenvolver bots inteligentes de nivel empresarial.
 
-OBS:  que é Bot? É um robo que automatiza tarefas um agente virtual. Exemplo: Claro, Whatsapp atendimento virtual. Ele inicia uma conversação com base em respostas de frma intelifencias com a IA.
+OBS:  O que é Bot? É um robo que automatiza tarefas um agente virtual. Exemplo: Claro, Whatsapp atendimento virtual. Ele inicia uma conversação com base em respostas de frma intelifencias com a IA.
 
 # Tipos de Serviços cognitivios IA:
 
 Language, Speech (Converte fala em texto), Vision, Decision
 
-A capacidade de buscar infromacoes e obter resultados muito satisfatorio.
+A capacidade de buscar informacoes e obter resultados muito satisfatorios.
 
 # Computação sem Servidor
 
-.Azure Functions: Buscar informacoes e obter resultas Codigo baseado em evento executando o serviço e não a infraestrturua subjacente. Linguagem de prograacao de sua preferenceia.
+.Azure Functions: Buscar informacoes e obter resultado de Codigo baseado em evento executando o serviço e não na infraestrturua subjacente. Linguagem de programacao de sua preferencia.
 
 .Aplicativos Lógico do Azure: automatizar e orquestrar tarefas e integracao com outros aplicativos.
 
-# Desenvolver aplicativos com DevOps e GitHub (Certificação AZ-400)
+# Desenvolver aplicativos com DevOps e GitHub (Certificação Azure DevOps AZ-400)
 
 Azure DevOps: ferramentas de colaboradores de desenvolvimento, inluindo pipelines, cartoes Kaban e teste de carga automatizados baseados em nuvem.
 
 Github: hosting de desenvolvimento de software com controle de versão, gerenciamento de código-fonte e gerenciamento de bugs/tarefas.
 
-GitHub Actions para Azure: automatizar o fluxo de trabalho de software para criar , testar e implantar de dentr do GitHub.
+GitHub Actions para Azure: automatizar o fluxo de trabalho de software para criar, testar e implantar dentro do GitHub.
 
-Azure DevTest Labs: criar rapidamente ambientes no Azure enquanto minimiza os gastos e controla os custos.
+Azure DevTest Labs: criar rapidamente ambientes no Azure enquanto minimiza os gastos e controla os custos. (Cai na prova...)
 
 # Ferramentas de Gerenciamento no Azure (ARM):
 
@@ -380,7 +380,7 @@ Portal do Azure: Painel via Web
 
 Azure PowerSell: Linux, Windows  Ma
 
-APlicativo Movel do Azure: Android e IOS, coisas mais simples iniciar e parar uma VM, mas para gerenciar é muito pequeno.
+Aplicativo Movel do Azure: Android e IOS, coisas mais simples iniciar e parar uma VM, mas para gerenciar é muito pequeno.
 
 Interface de Linha de Comando (CLI): Baixar o instalador para seu computador semelhante ao powershell, porem os comandos é mais voltado para o Linux. Pode ser instalado WIndows, Linux e MAC.
 
@@ -391,8 +391,6 @@ Azure Cloud Shell: É uma console por linha de commando pela pagina Web.
 # Azure Advisor
 
 É uma ferramenta para informar o que precisa ser melhorado dentro da plataforma. Ele faz recomendações com base nas melhores práticas para otimizar as implatações do Azure. Também acessível por API e voce pode configurar otificações com base nas melhores práicas pra otimizar as implantações.
-
-
 
 # Azure Monitor
 
@@ -670,7 +668,6 @@ Internet das Coias do Azure
 IoT: é a capacidade dos dispositivos de reunir e retransmitir
 
 
-. Azure Sphere: Segurança 
 
 
 
