@@ -663,7 +663,14 @@ PaaS: Containers, Tables, Queues
 
 . Loja dentro do Azure onde voce compra e provisiona serviços ou aplicativos e incorporar no Azure 
 
-# Modulo 3
+# Modulo 3 - Solucoes IoT
+
+Internet das Coias do Azure
+
+IoT: é a capacidade dos dispositivos de reunir e retransmitir
+
+
+. Azure Sphere: Segurança 
 
 
 
