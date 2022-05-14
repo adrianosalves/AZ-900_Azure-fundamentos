@@ -581,6 +581,56 @@ Maquinas Vitruais, Contas de Armazenamento, Redes Virtuais, Serviso Web, Bacnos 
 . É camada do Azure que permite o gerenciamento de criacao ou exclusão de um determinado recursos (Portal Azure, CLI, PowerShell, Cliente REST).
 
 
+# Serviço de computação do Azure
+
+Maquinas Virtuais (Iaas).
+
+Serviços de Aplicativos (PaaS)
+
+Serviço de Conteiner do Azure(PaaS)..
+
+Serviços de Kubernets do Azure(PaaS, KaaS): Orquestraçao de Containers gerenciamento de varios containers.
+
+OBS: Conjuntos de processos que permite a execução de uma aplicação. Serviço pronto para ser utilizado, não se tem a preocupação com memoria, disco, 
+
+# Área de Trabalho Virtual do Azure
+
+. É um modelo mais caro e não muito utilizado. Mas com o Home Office permite ao colaborador trabalhar remoto na nuvem.
+
+# Serviços de rede do Azure
+
+Permite conexao com as redes virtual e local.
+
+Peering: permite uma conexao com uma rede global interconectada no Azure.
+
+# Gateway de Rede VPN:
+
+. comunicação criptograda entre a rede Azure nuvem e rede local (On-Primese) atraves da rede publica.
+
+# Express Route do Azure:
+
+. comunicacao amplia rede locais para azure entre o Datacenter .
+. Camada 2 (L2)
+. Camada 3 (L3)
+
+# Azure networks Services
+
+. Azure Load Balancer: faz o balanceamento de rede para alta disponibildade.
+
+. CDN: permite achar um arquivo em servidor mais proximos e diversos servidores e datacenter
+
+. Aplication Gateway: faz o balanceamento web e para alta disponibildade.
+
+# 
+
+
+
+
+
+
+
+
+
 
 
 
