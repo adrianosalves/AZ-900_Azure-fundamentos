@@ -621,7 +621,55 @@ Peering: permite uma conexao com uma rede global interconectada no Azure.
 
 . Aplication Gateway: faz o balanceamento web e para alta disponibildade.
 
-# 
+# Tipo de Armazenamento Dados
+
+estruturado: tabelas, bancos relacionais
+
+semi-estrututrais: ex: Json, No-SQL, não estuturuai
+
+não-estruturais: PDFs, JPGs BLOBs (Objetos Binanrios)
+
+# Armazenamento
+
+IaaS: Disco, Arquivos
+
+PaaS: Containers, Tables, Queues
+
+# Serviços de Armazenamento do Azure
+
+. Armazenamento de conteiner (blob): são arquivos binarios (PDFs, Imagens e vides)
+
+. discos: Aplicativos e outros serviso para usar.
+
+. Arquivos do Azure: configura compartilha arquivos na rede altamente disponiveis usando o protoclo (SMB). Ex: compartilhamento entre VMs e containers.
+
+
+# Serviços de banco de Dados do Azure
+
+. Azure Cosmos Database: SLA 99,999% garantia de disposnibilidade muita alta. Concorrente da Firebase da google, escala de forma elastica o armazenamento,
+
+. Banco de Dados SQL do Azure: Banco Relacional
+
+. Banco de Dados do Azure para MySQL: Gratuito a licença porem paga o uso armazenado e transacoes.
+
+. Azure DataBase Migration Service: é um ferramenta de migracao.
+
+
+# Instancia Gerencada de SQL do Azure
+
+. Permite migrar seu banco de dados do SQL local para a Nuvem.
+
+# Explorar o Azure Marketing Place
+
+. Loja dentro do Azure onde voce compra e provisiona serviços ou aplicativos e incorporar no Azure 
+
+# Modulo 3
+
+
+
+
+
+
 
 
 
