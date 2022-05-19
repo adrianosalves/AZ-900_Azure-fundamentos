@@ -78,6 +78,7 @@ Os usuario se conectam e usam aplicativos com base em nuve pela internet por exe
 ** Saiba mais **
 
 azure.microsoft.com/pt-br/overviewe/what-is-cloud-computing
+
 azure.microsoft.com/pt-br/overviewe/azure-vs-aws
 
 # Modelos de Nuvem
