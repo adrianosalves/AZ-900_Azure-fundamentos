@@ -75,6 +75,11 @@ Oferece um ambiente que voce crie, teste e implanta com aplicativos de software 
 
 Os usuario se conectam e usam aplicativos com base em nuve pela internet por exemplo, Microsoft Office 365, email e calendarios.
 
+** Saiba mais **
+
+azure.microsoft.com/pt-br/overviewe/what-is-cloud-computing
+azure.microsoft.com/pt-br/overviewe/azure-vs-aws
+
 # Modelos de Nuvem
 
 Iaas: 
