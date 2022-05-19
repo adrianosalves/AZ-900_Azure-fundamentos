@@ -283,6 +283,10 @@ Exemplos: mp3, videos, twiter, emails recebido e enviado, imagem e etc...
 
 Azure BLOBs (Binary Large Objects).
 
+**Dica:**  Curso gratuito da Microsoft para Engenharia de Dados
+
+https://docs.microsoft.com/pt-br/learn/certifications/exams/dp-203
+
 # Armazenamento
 
 .IaaS: Discos, Aruqivos
