@@ -261,13 +261,27 @@ O Express Roue do Azure permite a conexao da minha rede privada a rede do Azure.
 
 . Azure Application Gateway: é um balanceador de carga do trafego da Web qe permite que voce gerencie o trafego para seu aplicativo Web. Trafego entre aplicações, camada OSI 7 de aplicação.
 
-# Tipos de Armazenamento Dados:
+# Tipos de Armazenamento Dados (São armazenado em forma diferentes):
 
-.Estrturados: 
+**.Estrturados:**
 
-.Semi-estrturados:
+Exemplo: Tabela de Banco de Dados: Em formas de linhas e colunas (Nome do clientes, Empresa, Telefone e etc).
 
-.Desinstruturados: Não possue estrutura de dados definida, BLOBs (Binary Large Objects).
+São armazenado geralmente em banco de dados relacional como Banco de Dados SQL.
+
+**.Semi-estrturados:**
+
+Exemplo: Arquivo JSON
+
+Azure Cosmos DB, disponivel na Azure.
+
+**.não-estruturados:** 
+
+Não possue estrutura de dados definida, BLOBs (Binary Large Objects).
+
+Exemplos: mp3, videos, twiter, emails recebido e enviado, imagem e etc...
+
+Azure BLOBs (Binary Large Objects).
 
 # Armazenamento
 
