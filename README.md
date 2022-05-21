@@ -547,7 +547,6 @@ As responsabilidades vão aumentando...
 . Utiliado com serviços Teams, Google Drive, Office 365.
 . Pago em modelo de Assinatura
 
-
 # Computação sem Servidor
 
 . Azure Functions: Consultar pequenas tarefas
@@ -665,7 +664,6 @@ PaaS: Containers, Tables, Queues
 
 . Arquivos do Azure: configura compartilha arquivos na rede altamente disponiveis usando o protoclo (SMB). Ex: compartilhamento entre VMs e containers.
 
-
 # Serviços de banco de Dados do Azure
 
 . Azure Cosmos Database: SLA 99,999% garantia de disposnibilidade muita alta. Concorrente da Firebase da google, escala de forma elastica o armazenamento,
@@ -675,7 +673,6 @@ PaaS: Containers, Tables, Queues
 . Banco de Dados do Azure para MySQL: Gratuito a licença porem paga o uso armazenado e transacoes.
 
 . Azure DataBase Migration Service: é um ferramenta de migracao.
-
 
 # Instancia Gerencada de SQL do Azure
 
@@ -691,76 +688,5 @@ Internet das Coias do Azure
 
 IoT: é a capacidade dos dispositivos de reunir e retransmitir
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Modulo 4: Segurança
 
