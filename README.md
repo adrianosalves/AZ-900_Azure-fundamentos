@@ -718,9 +718,13 @@ A *Central de Sergunaça do Azure* ou *Microsoft Defender para Nuvem* é um serv
 
 # Azure Sentinel
 
-É uma solução de gerenciamento de informações de segurança (SIEM) e de respostas automaticamente de segurança (SOAR) que fronece uma analise de segurança e inteligencia contral e ameaças em uma empresa. (Orquestração é Azure Sentinel - SOAR).
+É uma solução de gerenciamento de informações de segurança (SIEM) e de respostas automaticamente de segurança (SOAR) que fornece uma analise de segurança e inteligencia contral e ameaças em uma empresa. (Orquestração é Azure Sentinel - SOAR).
 
-COnecttor e integração : 
+SIEM , Security information and event management (Gerenciamento e Correlação de Eventos de Segurança) emite os alertas quando uma atividade maliciosa é detectada, já o SOAR, após receber esse alerta, pode gerar um ticket no sistema de incidentes, depois emite um altera de emergência para a equipe de SecOps além de já implementar automaticamente regras de quarentena num Firewall ou solução de segurança
+
+SOAR, o Security Orchestration, Automation and Response, é um conjunto de soluções de softwares compatíveis que permitem que uma organização colete dados sobre ameaças de segurança de várias fontes. Com o SOAR, é possível responder a eventos de segurança, melhorando a eficiência das operações digitais.
+
+Conector e integração : 
 
 . Office 365
 
@@ -734,6 +738,8 @@ COnecttor e integração :
 
 Armazena segredos do aplicativo em un local de nuvem centralizado para controla com segurança as permissões e o registro em log de acesso.
 
+O Azure Key Vault é serviço de nuvem para armazenar e acessar segredos de maneira segura. Um segredo é qualquer coisa a qual você queira controlar rigidamente o acesso, como chaves de API, senhas, certificados ou chaves criptográficas.
+
 . Gerenciamento de Segredos
 . Gerenciamento de Certificados
 . Armazenamento Apoiados por modelos de seguranca de hardware (HSMs)
@@ -741,6 +747,8 @@ Armazena segredos do aplicativo em un local de nuvem centralizado para controla 
 # Host Dedicado do azure
 
 Fornece servidores fisicos que hospedagem uma ou mais maquinas virtuais do Azure dedicada á carga de trabalha de uma unica organização. Você sai da rede pública e transferido para um ambiente dedicado.
+
+O Host Dedicado do Azure fornece servidores físicos que hospedam uma ou mais máquinas virtuais do Azure. O servidor é dedicado à sua organização e às suas cargas de trabalho – a capacidade não é compartilhada com outros clientes. Esse isolamento no nível do host ajuda a atender aos requisitos de conformidade. À medida que provisiona o host, há o ganho de visibilidade e controle sobre o posicionamento das VMs do Azure e determina as políticas de manutenção do host.
 
 *Beneficios* (Controle maior sobre o servidor):
 
@@ -806,6 +814,8 @@ Datacenters fisico:  Cliente / Microsoft
 
 # Firewall do Azure
 
+O Firewall do Azure é um serviço de segurança de firewall de rede inteligente e nativo de nuvem que fornece o que há de melhor em proteção contra ameaças para suas cargas de trabalho de nuvem em execução no Azure
+
 Um Firewall como Serviço (FaaS) com estado e gerenciado que concede/nega acesso ao Servidor coom base no endereço IP de origem, para proteger recursos de rede.
 
 . Aplica regras de filtragem de trafego de entrada e de saida
@@ -821,6 +831,8 @@ Um Firewall como Serviço (FaaS) com estado e gerenciado que concede/nega acesso
 O **Gateway de Aplicativo do Azure** tambem fornece um firewall chamado de Firewall de Aplicativo Web 9WAF). O Waf fornece proteção interna, centralizada para seus aplicativo web.
 
 # Grupos de Segurança de Rede (NSGs) - **Mini Firewall** (Bloqueia para recursos especifico)
+
+NSG (Networking Security Group) é um serviço do Azure com objetivo de filtrar o tráfego de entrada e saída nas sub redes em que ele está vinculado. Apenas de ser um recurso simplificado com objetivos específicos, muitos profissionais o comparam a um Firewall mas o que pouca gente sabe, é que você pode instalar quando NSGs forem necessários em sua arquitetura de serviços no Azure, lembrando que a regra básica é: o NSG terá efeito apenas nas redes em que estiver vinculado.
 
 Filtram o trafego de rede para os recursos do Auzre (e a partir dee tamebm) nas Redes Virtuaisl do Azure. Proteção mais granular para proteger as sub-redes.
 
