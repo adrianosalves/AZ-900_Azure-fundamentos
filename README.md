@@ -690,3 +690,93 @@ IoT: é a capacidade dos dispositivos de reunir e retransmitir
 
 # Modulo 4: Segurança
 
+**Centra de Segurança do Azure**:
+
+A *Central de Sergunaça do Azure* ou *Microsoft Defender para Nuvem* é um serviço de monitoramento que fornece proteção contra ameaças no DataCenter do Azure e Locais.
+
+. Fornece **recomendações** de segurnaça
+
+. Analisar e identificar malwares
+
+. Controle de acesso just-in-time para portas
+
+*Dica:* Importante que nada é feito automatico mas ele faz recomendações.
+
+# Orientação - Centra de Segurança do Azure
+
+. Analisar o Painel
+
+# Central de Segurança do Azure - recursos
+
+.*Conformidade com a politica*: A centra de segurança está integrada á parte superiro dos controles do Azure Policy para que voce possa definir e monior suas politicas para que sejam executadas em grupos de gerenciamento em assinaturas e ate mesmo para um locatario.
+
+*Alertas de segurança*: A automaticamente coleta analisa e integra dados do log de recursos
+
+*Classiicação de Segurnaça*:
+
+*Limpeza de Segurana de Recursos*:
+
+# Azure Sentinel
+
+É uma solução de gerenciamento de informações de segurança (SIEM) e de respostas automaticamente de segurança (SOAR) que fronece uma analise de segurança e inteligencia contral e ameaças em uma empresa. (Orquestração é Azure Sentinel - SOAR).
+
+COnecttor e integração : 
+
+. Office 365
+
+. Azure Active Director
+
+. Proeção Avancada contra Ameacas do Azure
+
+. Microsoft Cloud App Security
+
+# Azure Key Vault 
+
+Armazena segredos do aplicativo em un local de nuvem centralizado para controla com segurança as permissões e o registro em log de acesso.
+
+. Gerenciamento de Segredos
+. Gerenciamento de Certificados
+. Armazenamento Apoiados por modelos de seguranca de hardware (HSMs)
+
+# Host Dedicado do azure
+
+Fornece servidores fisicos que hospedagem uma ou mais maquinas virtuais do Azure dedicada á carga de trabalha de uma unica organização. Voce sai da rede pública.
+
+*Beneficios* (Controle maior sobre o servidor):
+
+. Isolamento do hardware no nivel do Servidor
+
+. Controle sobre o tempo do evento de manutenção
+
+. Alinhado com os Beneficios Híbridos de Uso do Azure.
+
+Observação: Isso sera de acordo com as Legislacao do Pais de acordo com a LGP mais restrita de acordo com a normas, ou performance extramente alta, latencia baixa e rápido. 
+
+# Conectividade de Rede Segua - Dominio de Objetivo
+
+**Proteçã completa**:
+
+. Uma abordagem em camadas para proteger sistemas de computador
+
+. Fornecer vários niveis de proteção.
+
+. Ataques contra uma camada são isolados das camadas subsequentes.
+
+1.Segurança fisica
+2.identidade e acesso
+3.Perimetro
+4.Rede
+5.Computação
+6.Aplicativo
+8.Dados
+
+
+
+
+
+
+
+
+
+
+
