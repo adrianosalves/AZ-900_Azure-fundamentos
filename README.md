@@ -726,7 +726,7 @@ COnecttor e integração :
 
 . Azure Active Director
 
-. Proeção Avancada contra Ameacas do Azure
+. Proteção Avancada contra Ameacas do Azure
 
 . Microsoft Cloud App Security
 
@@ -754,7 +754,7 @@ Observação: Isso sera de acordo com as Legislacao do Pais de acordo com a LGP 
 
 # Conectividade de Rede Segua - Dominio de Objetivo
 
-**Proteçã completa**:
+**Proteção completa**:
 
 . Uma abordagem em camadas para proteger sistemas de computador
 
