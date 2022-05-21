@@ -740,7 +740,7 @@ Armazena segredos do aplicativo em un local de nuvem centralizado para controla 
 
 # Host Dedicado do azure
 
-Fornece servidores fisicos que hospedagem uma ou mais maquinas virtuais do Azure dedicada á carga de trabalha de uma unica organização. Voce sai da rede pública.
+Fornece servidores fisicos que hospedagem uma ou mais maquinas virtuais do Azure dedicada á carga de trabalha de uma unica organização. Você sai da rede pública e transferido para um ambiente dedicado.
 
 *Beneficios* (Controle maior sobre o servidor):
 
@@ -750,7 +750,7 @@ Fornece servidores fisicos que hospedagem uma ou mais maquinas virtuais do Azure
 
 . Alinhado com os Beneficios Híbridos de Uso do Azure.
 
-Observação: Isso sera de acordo com as Legislacao do Pais de acordo com a LGP mais restrita de acordo com a normas, ou performance extramente alta, latencia baixa e rápido. 
+Observação: Isso sera de acordo com as Legislacao do Pais de acordo com a LGP mais restrita de acordo com a normas, ou performance extramente alta, latencia baixa e rápido. Modelo de nuvem dedicado.
 
 # Conectividade de Rede Segua - Dominio de Objetivo
 
@@ -762,13 +762,106 @@ Observação: Isso sera de acordo com as Legislacao do Pais de acordo com a LGP 
 
 . Ataques contra uma camada são isolados das camadas subsequentes.
 
-1.Segurança fisica
-2.identidade e acesso
-3.Perimetro
-4.Rede
-5.Computação
-6.Aplicativo
-8.Dados
+Camadas abaixo:
+
+1.Segurança fisica: Cabe a Microsoft manter essa segurnaça.
+
+2.identidade e acesso: Cabe a nós manter essa segurança.
+
+3.Perimetro: Evita ataques  atraves da rede exemplo 'DDos' ataques em massa, nessa camada que faz o filtro.
+
+4.Rede: Limita as atividades de rede aos recursos, limitar as portas e ips.
+
+5.Computação: Gestão de acesso as maquinas virtuais atualizações do Sistema Operacionas, Vulnerabilidades, Atualizações pendentes.
+
+6.Aplicativo: Necessário se preocupar que o App esteja livre de vulnerabilidade como senhas expostas.
+
+8.Dados: Onde está sendo gerenciados o dados do App.
+
+# Segurança Compartilhada:
+
+. Migra de Datacenteres controlados pelo cliente paara datacenter baseados em nnuvem muda a resposabilidade pela segurança
+
+. A segurança se torna um interesse compartilhado entre provedres de nuvem e clientes
+
+Resposabilidade: Local / IaaS / PaaS / SaaS
+
+Governanca de dados e Rights Management: Cliente / Cliente / Cliente / Cliente
+
+Pontos de extremidade do cliente:  Cliente / Cliente / Cliente / Cliente
+
+Gerenciamento de conta de acesso:  Cliente / Cliente / Cliente / Cliente
+
+Infraestruturua de identificaçã e dretorio:  Cliente / Cliente
+
+Aplicayivo:  Cliente / Cliente
+
+SO:  Cliente / Cliente
+
+Hosts:  Cliente / Microsoft
+
+Rede:  Cliente / Microsoft
+
+Datacenters fisico:  Cliente / Microsoft
+
+# Firewall do Azure
+
+Um Firewall como Serviço (FaaS) com estado e gerenciado que concede/nega acesso ao Servidor coom base no endereço IP de origem, para proteger recursos de rede.
+
+. Aplica regras de filtragem de trafego de entrada e de saida
+
+. Alta disponibilidade integrada
+
+. Escalabilidade de nuvem irrestrita
+
+. Usa o registro em log do Azure Monitor
+
+. Fornece suporte para filtragem baseada em inteligencia de ameaças.
+
+O **Gateway de Aplicativo do Azure** tambem fornece um firewall chamado de Firewall de Aplicativo Web 9WAF). O Waf fornece proteção interna, centralizada para seus aplicativo web.
+
+# Grupos de Segurança de Rede (NSGs) - **Mini Firewall** (Bloqueia para recursos especifico)
+
+Filtram o trafego de rede para os recursos do Auzre (e a partir dee tamebm) nas Redes Virtuaisl do Azure. Proteção mais granular para proteger as sub-redes.
+
+. Definir regras de entrada e saida para filtrar por fonte de endereco Ip e de destino porta e protocolo.
+
+. Adicionar varias regras conforme necessarios dentro dos limites de assinatura
+
+. Azure aplicas as regras de seguranca de liha de ase ádrao aso novoas NSgs
+
+. Subustituir as regras padrao por regras definada pelo firewall.
+
+# Proteção contra DDoS (Negacao de Serviço Distribuida) do Azure
+
+Os ataques DDoS sobrecarregam e esgota recursos de rede , tornndo os aplcativos lentos ou nao resposivos.
+
+. Limpa o trafefo de rede indesejado antes que ele afete a disposnibilidade do serviço.
+
+. A camada de serviço basica é automaticamente ativada no Azure.
+
+. A camada de serviço padrao adiciona recursos de mitigacao ajustadaos para proteger os recursos da Rede Virtual do Azure.
+
+. Dois niveis de protecao: Basice (Gratuito) ou Standard (Pago).
+
+# Orientacao - Proteger trafego de rede - Opcional
+
+Criar e confiruar regars da portas de seguranca de entrada e de saida....
+
+# Proteção Completa Analisada
+
+Combinando soluções de segurança de rede.
+
+. NSGs com Firewall do Azure para conquistar a proteção completa.
+
+. A camada do perimeto protege os limites de rede com a Proteção contra DDoS do Azure e o Firewall do Azure.
+
+
+
+
+
+
+
 
 
 
