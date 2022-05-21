@@ -846,7 +846,7 @@ Os ataques DDoS sobrecarregam e esgota recursos de rede , tornndo os aplcativos 
 
 # Orientacao - Proteger trafego de rede - Opcional
 
-Criar e confiruar regars da portas de seguranca de entrada e de saida....
+Criar e confiruar regras da portas de seguranca de entrada e de saida....
 
 # Proteção Completa Analisada
 
@@ -855,21 +855,4 @@ Combinando soluções de segurança de rede.
 . NSGs com Firewall do Azure para conquistar a proteção completa.
 
 . A camada do perimeto protege os limites de rede com a Proteção contra DDoS do Azure e o Firewall do Azure.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
