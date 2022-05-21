@@ -862,6 +862,18 @@ Segurança da Infraestrutura do Azure
 
 https://docs.microsoft.com/pt-br/azure/security/fundamentals/infrastructure
 
+Introducao a Segurança do Azure
+
+https://docs.microsoft.com/pt-br/azure/security/fundamentals/overview
+
+Segurança de Ponta a Ponta no Azure
+
+https://docs.microsoft.com/pt-br/azure/security/fundamentals/end-to-end
+
+Responsabilidade compartilhada na Nuvem - Microsoft Azure
+
+https://docs.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility
+
 
 
 
