@@ -856,3 +856,5 @@ Combinando soluções de segurança de rede.
 
 . A camada do perimeto protege os limites de rede com a Proteção contra DDoS do Azure e o Firewall do Azure.
 
+
+
