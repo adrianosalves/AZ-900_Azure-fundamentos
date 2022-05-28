@@ -1087,28 +1087,21 @@ EUA (Azure), China (21Vianet) e Alemanha (T-System International)
 
 OBSERVADORES: Modulo 5 chegou ao final hoje... vamos quiz....
 
+# RESUMO #
 
+A governança de nuvem exige uma boa coleta de requisitos e análise. A boa notícia é que o Cloud Adoption Framework para Azure pode ajudar você a definir e implementar sua estratégia de governança. Há vários serviços e recursos no Azure que dão suporte a esses esforços:
 
+O **RBAC do Azure (controle de acesso baseado em função do Azure)** permite que você crie funções que definem permissões de acesso.
 
+Os **bloqueios de recursos** impedem que os recursos sejam excluídos ou alterados acidentalmente.
 
+As **marcas de recursos** fornecem informações extras ou metadados sobre os recursos.
 
+O **Azure Policy** é um serviço do Azure que permite criar, atribuir e gerenciar políticas que controlam ou auditam os recursos.
 
+O **Azure Blueprints** permite que você defina um conjunto repetível de ferramentas de governança e de recursos padrão do Azure necessário para a sua organização.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Com esses pontos em mente, você está pronto para realizar a próxima etapa para a criação de uma boa estratégia de governança de nuvem.
 
 
 
