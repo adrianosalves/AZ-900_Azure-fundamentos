@@ -884,7 +884,109 @@ Responsabilidade compartilhada na Nuvem - Microsoft Azure
 
 https://docs.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility
 
-# Modulo 5:
+# Modulo 5: Identidade, governança, privacidade e conformidade
+
+## Plano
+
+Voce vai aprender os seguintes conceitos
+
+**Serviços de identidade do Azure
+- Autenticação versus autorização
+- Azure...
+
+## Principais identidades
+
+**Comparar autenticação e autorização**:
+
+*Autenticação:*
+- identifica a pessoa ou serviço buscando acesso a um recurso.
+- solicita credenciais de acesso legitimo.
+- Base para criar principios de identidade e controle de acesso seguros
+
+Dicas: Pin, Biometria, Usuario e senha...
+
+*Autorização:**
+- Determina o nivel de acesso de uma pessoa ou serviço autenticado.
+- Define quais dados eles podem acessar e o que podem fazer com eles.
+
+Dicas: Acesso aos recursos pode deferencias...
+
+**Autenticação multifator do Azure**:
+
+Fornece segurança adicional para as identidades, exigindo dois ou mais elementos para autenticação completa.
+
+- *Algo que voce sabe (Usuario e senha) <-> Algo que voce tem (Codigo de acesso) <-> Algo que voce é (Biometria facial e etc)...*
+
+Dicas: Uma forma de autenticação mais segura para preventir que usuarios maliciosos tente invadir suas credencais.
+
+## Azure Active Direcoty (AAD):
+
+É um serviço de gerenciamento de acesso e identidade baseado em nuvem do Microsoft Azure
+
+- Autenticação (credenciais dis funcionarios para acessar recursos)
+
+- Logon único (SSO)
+
+- Gerenciamento de apliactisos
+
+- Entre empresas B2
+
+- Servicos de identidade... entre empresas e clientes B2C)
+
+# Azure AD Connect
+
+Sincroniza identidade de usuarios entre AD Local e o Azure AD.
+
+O Azure AD Connect sincroniza alterações entre os dosis sistemas de identidade o que permite que voce use recursos como SSO, autentcacao multiftor e redefiniiacao de senha por autoatendimento.
+
+# Acesso Condicional
+
+É uma ferramenta do *Azure AD* para permitir ou negar de acordo com sua identidade, ele vai reunir sinais para tomar decisoes e impor politicas organizacionais.
+
+- Associações de usuarios ou grupos
+
+- Localização do IP
+
+- Dispositvo
+
+- Aplicativo
+
+- Detecção de risco
+
+## Explorar RBAC (Controlas acessos aos recursos e assinaturas do Azure)
+
+Gerenciamento de Grupo > Assiaaturas > Grupo de Recursos > VMs e Recursos 
+
+- Gerenciamento de acesso de granulidade fina.
+
+- Divida as tarefas dentro da equipe e conceda somente a quantidade de acesso de que os usuarios precisam para trabalhar.
+
+- Habilite o acesso ao portal do Azure e o controle de acesso aos recursos.
+
+Dicas: Nivel de Acesso: Proprietario (Acesso ao qualquer usuario), Contribuinte (Altera as informações mas não pode atribuir permissoes), Leitor (Pode somente visualizar os recuros e não pode alterar nada).
+
+
+# Bloqeui de recuros / Resources Locks
+
+- Proteja os recursos do Azure de exclusao u modificações acidetal
+
+- Gerencie bloqueios nos niveis de assinaturas, grupos de recursos ou recursos individuais no portal do Azure
+
+**Tipos de bloqueios: Leitura, Atualização, Exclusao**
+**CanNotDelete:** Sim, Sim, Não
+**ReadOnly:** Sim, Não, Não
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure 
 
