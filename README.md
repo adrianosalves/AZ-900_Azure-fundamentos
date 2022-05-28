@@ -966,15 +966,48 @@ Gerenciamento de Grupo > Assiaaturas > Grupo de Recursos > VMs e Recursos
 Dicas: Nivel de Acesso: Proprietario (Acesso ao qualquer usuario), Contribuinte (Altera as informações mas não pode atribuir permissoes), Leitor (Pode somente visualizar os recuros e não pode alterar nada).
 
 
-# Bloqeui de recuros / Resources Locks
+# Bloqueio de recursos / Resources Locks
 
 - Proteja os recursos do Azure de exclusao u modificações acidetal
 
-- Gerencie bloqueios nos niveis de assinaturas, grupos de recursos ou recursos individuais no portal do Azure
+- Gerencie bloqueios nos níveis de assinaturas, grupos de recursos ou recursos individuais no portal do Azure
 
 **Tipos de bloqueios: Leitura, Atualização, Exclusao**
 **CanNotDelete:** Sim, Sim, Não
 **ReadOnly:** Sim, Não, Não
+
+# Marcas (Tags)
+
+- Fornece metadados aos recursos do Azure.
+
+- Organization os recursos em uma taxonomia de maneira lógica.
+
+- Consistem em um par nome-valor
+
+- Muito úteis para reunir informações de cobranças
+
+*Dicas:* Gestão de cobrança mais organizada e visual, **é obrigatoria a criação de uma Tags?** não é obrigatório!, mas pode se impor uma politica obrigatorio de acordo com o cenário pode ser uma boa prática. As Tags tambem não são herdada, sendo assim eu tenho que atribuir. Cada recursos pode ter ate 15 tags limite maximo.
+
+# Azure Policy
+
+Ele vai havaliar os recursos que temos em conformidade em nosso ambiente para padronização e avaliar o estado geral do ambiente.
+
+- Avaliar e identificar os recursos do Azure que não atendem as suas politicas.
+
+- Fornecer definições de politicas e iniciativas integradas, em categorias como Armazenanto, Rede, Computadores, Central de Segurança e Monitoramento.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
