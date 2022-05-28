@@ -1033,7 +1033,64 @@ Manual de boas praticas (Diretrizes e melhores praticas) com ferramentas e estra
 
 
 
-- 
+# Politica de privacidade da Microsoft
+
+Como eles controlam os dados pessoais e etc...
+
+- Quais dados a Microsoft processa
+
+- Como a Microsoft os processa
+
+- Qual finalidade os dados são usados.
+
+# Termos dos Serviços Online e Adendo de Proteção de Dados
+
+- *Termos dos Serviços Onine:* Os termos de licenciamento delinem os termos e codições para os produtos e serviços online adquieridos por meior de proramas de licencimentos (por meios de contratos)
+
+- *Adendo de proteção de dados:* O DPA estabelece as obrigações com relação ao processamento e a segurança dos dados do clientes e dados pessoais em relação so serviços online.
+
+# Central de Confiabilidade 
+
+Não um ferramente e nem um recurso e sim um site onde podemos conhecer os principios e os produtos da microosft.
+
+- Informações de especialistas...
+
+- Informações especificas de função para gerentes de negocios, administradres, engenheros, avaliadores de reiscos, agete de priacidades e qeuipes juridicas..
+
+Dicas: Elaborar contrato, informações de segurança e politicas e coformidade da nuvem.
+
+# Documentação de conformidade do Azure
+
+A microsoft oferece um conjuto abragete de **ofertas de conformidade** para ajudar sua organinzação a cumprir requisitos nacionais, regionais e especificos do setor que regem a coleta e o uso de dados.
+
+*Global, Governos do EUA, Setor, Regional.*
+
+Normas de conformidade padrão legal para cada região que a Microsoft procura estar de acordo com a Leis de cada Pais e Governo.
+
+# Regiões sobernans do Azure ( Serviços do Governo do EUA)
+
+Atende as necessidade de segurança e conformidade das agencias federais do EUA governos estaduasi e locas e seus provedores de soluções:
+
+Azure Governamental:
+
+- Instancias separada do Azure
+
+- Fisicamente isolada da implantação ...
+
+Regiões soberana do Azire (Azure China)
+
+Recursos do Azure China.
+
+- Instancias fisicamente seprrada dos serviços de nuvem do azure operadores pea 21Viantet.
+
+EUA (Azure), China (21Vianet) e Alemanha (T-System International)
+
+OBSERVADORES: Modulo 5 chegou ao final hoje... vamos quiz....
+
+
+
+
+
 
 
 
