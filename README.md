@@ -997,7 +997,43 @@ Ele vai havaliar os recursos que temos em conformidade em nosso ambiente para pa
 - Fornecer definições de politicas e iniciativas integradas, em categorias como Armazenanto, Rede, Computadores, Central de Segurança e Monitoramento.
 
 
+# Azure Blueprints
 
+Possibilita que as equipes de Devs criem e implantem novos ambientes com rapidez. As equipes de Devs podem desenvoes as a on.. Modelode de tamples (conjutos de regras pre-criadas) para acelerar o desenvolvimento e a entrega.
+
+- Atribuições de função
+
+- Atribuições de politivas
+
+- Modelos do Azure Resoureces Manager
+
+- Grupos de rercursos
+
+# Cloud Adoption Framework (Estrutura de Adoção de Nuvem para o Azure)
+
+Manual de boas praticas (Diretrizes e melhores praticas) com ferramentas e estrategia para migração para nuvem.
+
+- A abordagem One Microsot para adoção de nuvem no Azure.
+
+- Melhores práticas dos funcionarios, parceiros e clientes da Microsoft.
+
+- ....
+
+# Segurança, privacidade e confirmiddade
+
+- **Seguança** Intencionalmente seguro. Com segurança inteligente integrada. a Microosft ajuda a protegrer contra ameaça cibernetica conhecidas e desconhecidas usando automação e IA.
+
+- **Privacidade*: 
+
+- **Conformidade**
+
+**Termos e requisitos de conformidade:** CJIS, HIPAA, NIST. ISO/IEC 27018, Certificação CSA START, Clausulas de modelo da UE.
+
+
+
+
+
+- 
 
 
 
@@ -1042,7 +1078,7 @@ Com essas ideias em vigor, as equipes de desenvolvimento de software e o adminis
 # Criar uma estratégia de governança de nuvem no Azure
 
 
-
+# 
 
 
 
