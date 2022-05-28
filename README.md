@@ -884,7 +884,7 @@ Responsabilidade compartilhada na Nuvem - Microsoft Azure
 
 https://docs.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility
 
-# Modulo 6:
+# Modulo 5:
 
 ## Proteger o acesso aos seus aplicativos usando os serviços de identidade do Azure 
 
@@ -903,6 +903,10 @@ A **Autenticação Multifator do Azure AD** fornece segurança adicional para as
 O **Acesso Condicional** é uma ferramenta usada pelo Azure AD para permitir ou negar o acesso a recursos com base em sinais de identidade, como a localização do usuário.
 
 Com essas ideias em vigor, as equipes de desenvolvimento de software e o administrador de TI podem começar a substituir os sistemas de autenticação atuais por sistemas que usam vários fatores e permitem o acesso a vários aplicativos.
+
+# Criar uma estratégia de governança de nuvem no Azure
+
+
 
 
 
