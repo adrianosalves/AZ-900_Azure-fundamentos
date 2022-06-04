@@ -1150,5 +1150,26 @@ Com essas ideias em vigor, as equipes de desenvolvimento de software e o adminis
 - Manter: **Mantenha-se atualizado** com oas ofertas 
 - Aplicar: **proprietario de custos** com tags e marcas use para identificar.
 
+# SLA do Azure de ciclos de vidad e serviço - Dominio de objetivo
 
+**Contrato de Nivel de Servico (SLAs)
+
+Os contratos de nivel de Servico (SLA) descrevem os compromissos da Microsoft para tempo de atividade e conecetivdade
+
+- Os SLAs são baseados em produtos e serviços individuais
+
+- Contratos detalhados sobre o serviço fornecido e quaisquer exeções ao SLA
+
+# SLAs para produtos e serviçs do Azure
+
+SLA  / Tempo de inatividade por mes
+
+99% = 7h 18m 1 17 s
+99,5% = 3h 39m 8s
+99,9% = 43m 49s
+99,95% = 21m 54s
+99,99% = 4m 22s
+99,999% = 26s
+
+- As metas de desempesenha varia de 99% a 99,999%
 
