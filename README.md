@@ -1191,6 +1191,3 @@ SLA  / Tempo de inatividade por mes
 
 - Geralmente disponivel (GA) podem  usar o recursos disponivel para utilização;
 
-
-
-
