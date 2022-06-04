@@ -1171,5 +1171,26 @@ SLA  / Tempo de inatividade por mes
 99,99% = 4m 22s
 99,999% = 26s
 
-- As metas de desempesenha varia de 99% a 99,999%
+- As metas de desempesenha varia de 99% a 99,999% quanto mais taxa de SLA menos tempo fora!
+
+# Ações que afetam SLAs
+
+**Reduzir seu SLA
+- Adicionando mais serviços
+- Escolhendo servicos gratuitos ou sem SLA
+
+**Aumentar seu SLA
+- Zonas de Disponnibilidade
+- Sistema Operacional
+
+# Programa de pré -visualização do Azure
+
+- Pré-visualização processo de teste (Beta);
+
+- Visualização Publica: todos os clientes podem avaliar os novos recursos
+
+- Geralmente disponivel (GA) podem  usar o recursos disponivel para utilização;
+
+
+
 
