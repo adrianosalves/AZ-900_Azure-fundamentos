@@ -1128,11 +1128,11 @@ Com essas ideias em vigor, as equipes de desenvolvimento de software e o adminis
 # Criar uma estratégia de governança de nuvem no Azure
 
 
-# 
+# https://azure.microsoft.com/pt-br/pricing/calculator/
 
 
 
-
+# Gerenciamento de Custos do Azure
 
 
 
