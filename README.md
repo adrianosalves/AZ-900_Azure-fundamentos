@@ -1128,11 +1128,27 @@ Com essas ideias em vigor, as equipes de desenvolvimento de software e o adminis
 # Criar uma estratégia de governança de nuvem no Azure
 
 
+# Modulo 6
+
 # https://azure.microsoft.com/pt-br/pricing/calculator/
 
 
-
 # Gerenciamento de Custos do Azure
+
+- Relatorio de Cobranca
+- Enriquecimento de dados
+- Alertas de custos
+- recomendacoes
+
+# Como minimizar Custos 
+
+- Executar: A analise de custos e **preço** de **TCO do Azure
+- Monitorar: O uso dos recursos com o **Assistente do Azure** implemente recomendaçoe
+- Usar : Os **limite de gastos** Use por meio de cleintes de avaliação gratuita do azure com base em credito.
+- Usar: **reservas do azure e benefiicios hibrido do azure**
+- Escolher: **locais e regioes de baixo custos** Se possiveis use locas de baixo custo
+- Manter: **Mantenha-se atualizado** com oas ofertas 
+- Aplicar: **proprietario de custos** com tags e marcas use para identificar.
 
 
 
