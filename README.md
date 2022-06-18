@@ -1428,8 +1428,18 @@ a. Aplicativos Lógicos do Azure
 
 B. Um conjunto de disponibilidade
 
-C. Um conjunto de dimensionamento de máquinas virtuais do Azure
+**C. Um conjunto de dimensionamento de máquinas virtuais do Azure (x)**
 
 D. Azure Load Balancer
+
+**Dica**:
+
+O que são os conjuntos de dimensionamento de máquinas virtuais?
+Os Conjuntos de Dimensionamento de Máquinas Virtuais permitem criar e gerenciar um grupo de VMs idênticas e com balanceamento de carga. Imagine que você esteja executando um site que permite aos cientistas carregarem imagens de astronomia que precisam ser processadas. Se você duplicasse a VM, normalmente precisaria configurar um serviço adicional para rotear solicitações entre várias instâncias do site. Os conjuntos de dimensionamento de máquinas virtuais podem fazer esse trabalho para você.
+Os conjuntos de dimensionamento permitem que você gerencie, configure e atualize centralmente um grande número de VMs em minutos para fornecer aplicativos de alta disponibilidade. O número de instâncias de VM pode aumentar ou diminuir automaticamente em resposta à demanda ou a um agendamento definido. Com conjuntos de dimensionamento de máquinas virtuais, você pode criar serviços em grande escala para áreas como computação, big data e cargas de trabalho de contêiner.
+
+Difere do LoadBalance: https://docs.microsoft.com/pt-br/azure/load-balancer/load-balancer-overview?ranMID=46131&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-IjRnGbhvXOPab9rrPvyohQ&epi=a1LgFw09t88-IjRnGbhvXOPab9rrPvyohQ&irgwc=1&OCID=AID2200057_aff_7806_1243925&tduid=(ir__l2eelawqwkkf6jfp2qr9oakm6m2xvgfueudvbwdm00)(7806)(1243925)(a1LgFw09t88-IjRnGbhvXOPab9rrPvyohQ)()&irclickid=_l2eelawqwkkf6jfp2qr9oakm6m2xvgfueudvbwdm00
+
+
 
 
