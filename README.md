@@ -1215,4 +1215,25 @@ C. configuração
 
 D. autorização
 
+**Dica**:O logon único é um método de autenticação que permite aos usuários entrar usando um conjunto de credenciais para fazer logon único em diferentes aplicativos. O logon único facilita o gerenciamento de senhas e aumenta os recursos de segurança.
+
+**_Relacione os serviços à esquerda com as descrições corretas à direita._**
+
+**Serviços **
+
+a. Calculadora de preço
+
+B. Calculadora de TCO
+
+C. Gerenciamento de custos
+
+**Descrições**
+
+1. Estima os custos da carga de trabalho
+
+2. Estima a economia de custos comparando os custos do datacenter com a execução da mesma carga de trabalho no Azure
+
+3. Ajuda a controlar, analisar e otimizar os custos da carga de trabalho]
+
+**Resposta = a1, b2, c3**
 
