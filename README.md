@@ -1393,34 +1393,21 @@ D. Uma zona de disponibilidade
     O Lote do Azure permite dimensionar para milhares de máquinas virtuais para ter HPC (computação de alto desempenho) e trabalhos paralelos em grande escala. Outras funcionalidades do Azure permitem dimensionar várias VMs, mas apenas o Lote do Azure permitirá milhares de VMs para HPC.
 
 
-
-Serviços 
-
-a. Bloqueios de recursos do Azure
-1. Provisiona e executa rapidamente novos ambientes com o conhecimento de que eles estão de acordo com os requisitos de conformidade da organização.
-
-B. Azure Blueprints
-2. Impõe padrões e avalia a conformidade em toda a organização
-
-C. Azure Policy
-3. Impede que recursos sejam excluídos ou alterados acidentalmente
-
-
-Descrições
-
+**Serviços**
 
 a. Bloqueios de recursos do Azure
-1. Provisiona e executa rapidamente novos ambientes com o conhecimento de que eles estão de acordo com os requisitos de conformidade da organização.
 
 B. Azure Blueprints
-2. Impõe padrões e avalia a conformidade em toda a organização
 
 C. Azure Policy
+
+**Descrições**
+
+1. Provisiona e executa rapidamente novos ambientes com o conhecimento de que eles estão de acordo com os requisitos de conformidade da organização.
+
+2. Impõe padrões e avalia a conformidade em toda a organização
+
 3. Impede que recursos sejam excluídos ou alterados acidentalmente
-
-
-A
-
 
 **_    __________ permite provisionar um grupo de máquinas virtuais correspondentes e com balanceamento de carga no Azure._**
 
@@ -1441,5 +1428,23 @@ Os conjuntos de dimensionamento permitem que você gerencie, configure e atualiz
 Difere do LoadBalance: https://docs.microsoft.com/pt-br/azure/load-balancer/load-balancer-overview?ranMID=46131&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-IjRnGbhvXOPab9rrPvyohQ&epi=a1LgFw09t88-IjRnGbhvXOPab9rrPvyohQ&irgwc=1&OCID=AID2200057_aff_7806_1243925&tduid=(ir__l2eelawqwkkf6jfp2qr9oakm6m2xvgfueudvbwdm00)(7806)(1243925)(a1LgFw09t88-IjRnGbhvXOPab9rrPvyohQ)()&irclickid=_l2eelawqwkkf6jfp2qr9oakm6m2xvgfueudvbwdm00
 
 
+**___________no Azure permite implantar recursos do Azure próximos aos usuários._**
+
+A. Elasticidade
+
+B. Escalabilidade
+
+**C. Distribuição geográfica (x)**
+
+D. Alta disponibilidade
+
+**Dica:** Devido à distribuição geográfica, você pode implantar aplicativos e dados em data centers regionais em todo o mundo, garantindo assim que os clientes sempre tenham o melhor desempenho em sua região.
+
+
+__________ tem suporte do ExpressRoute para conectar uma rede local ao Azure.
+a. Uma VPN ponto a site
+B. Uma conexão Ethernet ponto a ponto
+C. Uma VPN site a site
+D. Serviço de Emparelhamento do Azure
 
 
