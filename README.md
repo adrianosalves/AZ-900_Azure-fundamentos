@@ -1237,3 +1237,23 @@ C. Gerenciamento de custos
 
 **Resposta = a1, b2, c3**
 
+**Dica**: 
+A calculadora de preços ajuda você a estimar o custo da carga de trabalho.
+A Calculadora de TCO informa a economia de custo aproximada da operação no Azure de uma carga de trabalho semelhante à do datacenter local. 
+O Gerenciamento de Custos do Azure ajuda a entender a fatura do Azure e a gerenciar a conta
+
+**___________ é um conjunto repetível de ferramentas de governança que ajuda as equipes de desenvolvimento a compilar e criar ambientes rapidamente, aderindo à conformidade organizacional para acelerar o desenvolvimento e a implantação._**
+
+a. Azure DevOps
+
+B. Uma configuração de pipeline de CI/CD (integração contínua/implantação contínua)
+
+**C. Azure Blueprints(x)**
+
+D. Azure Policy
+
+**Dica:** Às vezes, o ambiente de nuvem cresce além de apenas uma assinatura. Nesse caso, o Azure Blueprints ajuda a dimensionar a configuração. O Azure Blueprints ajuda com tarefas repetíveis para que as equipes de desenvolvimento criem e implantem rapidamente novos ambientes e acelerem as fases gerais de desenvolvimento e implantação.
+O Blueprints é uma maneira declarativa de orquestrar a implementação de vários modelos de recursos. https://docs.microsoft.com/pt-br/azure/governance/blueprints/overview. 
+
+
+
