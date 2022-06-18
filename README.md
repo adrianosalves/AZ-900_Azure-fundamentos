@@ -1330,7 +1330,7 @@ D. Unidades administrativas
 
 **Dicas:** Os recursos do Azure são combinados em grupos de recursos, que atuam como um contêiner lógico no qual os recursos do Azure, como aplicativos Web, bancos de dados e contas de armazenamento, são implantados e gerenciados. 
 
-**Qual camada de defesa em profundidade usa proteção contra DDoS (negação de serviço distribuído)?**
+**_Qual camada de defesa em profundidade usa proteção contra DDoS (negação de serviço distribuído)?_**
 
 a. Camada de segurança física
 
@@ -1342,7 +1342,7 @@ D. Camada de aplicativo
 
 **Dicas** A camada de perímetro usa a proteção contra DDoS (ataque de negação de serviço distribuído) para filtrar ataques em grande escala antes que eles possam causar uma negação de serviço para os usuários.
 
-**Qual tecnologia de computação sem servidor do Azure permite executar fluxos de trabalho para automatizar cenários de negócios usando gatilhos sem escrever nenhum código?**
+**_Qual tecnologia de computação sem servidor do Azure permite executar fluxos de trabalho para automatizar cenários de negócios usando gatilhos sem escrever nenhum código?_**
 
 a. Funções do Azure
 
@@ -1353,5 +1353,26 @@ C. Porta da frente do Azure
 D. Azure DevOps
 
 **Dica**: Os Aplicativos Lógicos do Azure foram desenvolvidos em um designer baseado na Web e podem executar a lógica disparada pelos serviços do Azure sem escrever nenhum código.
+
+**_O que você pode usar para iniciar o Cloud Shell do Azure?_**
+
+**a. Portal do Azure(x)**
+
+B. Azure PowerShell
+
+C. CLI (Interface de Linha de Comando) do Azure.
+
+D. Modelo do ARM (Azure Resource Manager)
+
+**DIca**: 
+
+O Azure Cloud Shell é um shell interativo, autenticado e acessível por navegador para gerenciar recursos do Azure. Ele proporciona a você a flexibilidade de escolher a experiência de shell mais adequada para o modo como você trabalha, Bash ou PowerShell.
+Você pode acessar o Cloud Shell de três maneiras:
+• Link direto: abra um navegador para https://shell.azure.com.
+• Portal do Azure: selecione o ícone do Cloud Shell no portal do Azure.
+• Snippets de código: em docs.microsoft.com e no Microsoft Learn, selecione o botão Experimentar
+
+
+
 
 
