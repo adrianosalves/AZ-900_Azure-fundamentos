@@ -1523,6 +1523,42 @@ Autorização é o processo de estabelecer qual nível de acesso um usuário ou 
     https://docs.microsoft.com/pt-BR/learn/certifications/resources/az-900-sample-questions
     
     
+ Distribuição dos Vauchers:
+ 
+ A partir de sexta-feira 24/06
+ Notificado via WhatsApp apos o envio dos e-mails
+ Todos alunos que tirar 7 ou mais vai receber
+ Junto com o Voucher tera o link de agendamento
+ So poder ser agendad o disponivel
+ Nao pode mudar a data
+ Nao agandar sera cancelado.
+ 
+ Exigenciar para o Exame:
+ 
+ Computador ou Notebook;
+ Windows, Linux ou Mac
+ WebCam com aplicativo de camera instalado;
+ Windows ja tem app de camera
+  
+ Linux: Cheesee ou Similar
+ 
+ Instalar o AnyDesk 
+ 
+ PROIBIDO INSTALAR DOIS MONITORES;
+ 
+ ----
+ 
+ Voce precisa esta em um comodo sozinho
+ 
+ Apenas copo transparente, sem escritos e somente agua.
+ 
+ Nao ler as perguntas em voz alta
+ 
+ NÂO SAIR DURANTE O EXAME SEM PERMISÂO DOS PROCTOR.
+ 
+ 
+ 
+    
 
 
 
