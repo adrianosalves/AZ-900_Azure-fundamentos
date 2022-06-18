@@ -1533,7 +1533,7 @@ Autorização é o processo de estabelecer qual nível de acesso um usuário ou 
  Nao pode mudar a data
  Nao agandar sera cancelado.
  
- Exigenciar para o Exame:
+ # Exigenciar para o Exame:
  
  Computador ou Notebook;
  Windows, Linux ou Mac
@@ -1546,7 +1546,7 @@ Autorização é o processo de estabelecer qual nível de acesso um usuário ou 
  
  PROIBIDO INSTALAR DOIS MONITORES;
  
- ----
+# REQUISITO PARA O EXAME:
  
  Voce precisa esta em um comodo sozinho
  
@@ -1555,6 +1555,35 @@ Autorização é o processo de estabelecer qual nível de acesso um usuário ou 
  Nao ler as perguntas em voz alta
  
  NÂO SAIR DURANTE O EXAME SEM PERMISÂO DOS PROCTOR.
+ 
+ # DURACAO 
+ 
+ 45 a 65 min
+ 
+ quantidades de perguntas 40 a 60
+ 
+ Tipos de questoes...
+ 
+ Unica ou Multipla escolha
+ 
+ Lista de compilação
+ 
+ Arrastar e soltar
+ 
+ Caixas de seleção.
+ 
+ https://docs.microsoft.com/pt-br/learn/certifications/exam-duration-question-types
+ 
+SIMULAÇÂO:
+
+ https://aka.ms/examdemo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
