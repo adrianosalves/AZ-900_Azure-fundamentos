@@ -1475,4 +1475,42 @@ D. Instâncias de Contêiner do Azure
 **Dica**: Os grupos de gerenciamento ajuda você a gerenciar o acesso, a política e a conformidade de várias assinaturas. Todas as assinaturas em um grupo de gerenciamento herdam automaticamente as condições aplicadas ao grupo de gerenciamento.
 
 
+**____________ alerta quando ocorrem problemas de serviço em um ambiente do Azure, como uma interrupção regional do Azure que afeta todos os clientes do Azure._**
+
+A. Azure Monitor
+
+B. Assistente do Azure
+
+**C. Integridade do Serviço do Azure(x)**
+
+D. Azure Application Insights
+
+**Dica**; A Integridade do Serviço do Azure alerta você sobre problemas de serviço que ocorrem no próprio Azure, como uma interrupção regional do Azure
+
+Serviços
+
+a. Autorização
+
+B. Autenticação
+
+Descrições
+
+1. Confirma a identidade de uma pessoa que deseja acesso
+
+
+2. Concede o acesso adequado a um usuário legítimo
+
+**Resposta = A=2, B=1**
+
+
+    Autenticação– confirmar a identidade de uma pessoa que deseja acesso.
+Autenticação é o processo de estabelecer a identidade de uma pessoa ou serviço que deseja acessar um recurso.
+Autorização– conceder o acesso adequado a um usuário legítimo.
+Autorização é o processo de estabelecer qual nível de acesso um usuário ou serviço legítimo deve ter.
+​
+    https://docs.microsoft.com/pt-BR/learn/certifications/resources/az-900-sample-questions
+    
+    
+
+
 
