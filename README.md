@@ -1578,6 +1578,9 @@ SIMULAÇÂO:
 
  https://aka.ms/examdemo
  
+ Microsoft Training Day
+ 
+ https://www.microsoft.com/pt-br/events-hub/
  
  
  
