@@ -1318,5 +1318,13 @@ O ExpressRoute permite que você estenda suas redes locais para a nuvem da Micro
 
 **VPN site a site:** estabelecida entre o dispositivo VPN local e um Gateway de VPN do Azure implantado em uma rede virtual. Esse tipo de conexão permite que a comunicação entre qualquer recurso local autorize o acesso a uma rede virtual por meio de um túnel criptografado (Atraves da Internet Publica).
 
+**Você usa ___________ para organizar recursos em uma assinatura do Azure.**
 
+a. Regiões do Azure
+
+**B. Grupos de recursos**
+
+C. Grupos de gerenciamento
+
+D. Unidades administrativas
 
