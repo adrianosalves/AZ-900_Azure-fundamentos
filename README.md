@@ -1418,3 +1418,18 @@ B. Azure Blueprints
 C. Azure Policy
 3. Impede que recursos sejam excluídos ou alterados acidentalmente
 
+
+A
+
+
+**_    __________ permite provisionar um grupo de máquinas virtuais correspondentes e com balanceamento de carga no Azure._**
+
+a. Aplicativos Lógicos do Azure
+
+B. Um conjunto de disponibilidade
+
+C. Um conjunto de dimensionamento de máquinas virtuais do Azure
+
+D. Azure Load Balancer
+
+
