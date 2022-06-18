@@ -1410,7 +1410,16 @@ C. Azure Policy
 3. Impede que recursos sejam excluídos ou alterados acidentalmente
 
 
-**Respostas = ???***
+**Respostas = A=3,B=1,C=2***
+
+**Dica:** 
+
+    Os **bloqueios de recursos** podem ser usados para impedir que recursos sejam excluídos ou alterados acidentalmente. Mesmo com as políticas controle de acesso baseado em função em vigor, ainda existe um risco de as pessoas com o nível certo de acesso poderem excluir um recurso crítico. Os bloqueios do Azure Resource Manager impedem que os usuários excluam ou modifiquem acidentalmente um recurso crítico e podem ser aplicados a uma assinatura, a um grupo de recursos ou a um recurso.
+    
+O **Azure Blueprints** fornece um modo de definir um conjunto repetitivo de recursos do Azure. O Azure Blueprints permite que equipes de desenvolvimento provisionem e executem novos recursos rapidamente, com o conhecimento de que estão alinhados com os requisitos de conformidade da organização. As equipes também podem fornecer recursos do Azure em várias assinaturas simultaneamente, o que significa que eles podem alcançar tempos de desenvolvimento menores e uma entrega mais rápida.
+
+O **Azure Policy** foi projetado para ajudar a reforçar os padrões e avaliar a conformidade em toda a sua organização. Por meio de seu painel de conformidade, você pode acessar uma exibição agregada para ajudar a avaliar o estado geral do ambiente. Você pode fazer uma busca detalhada em uma granularidade de nível por recurso ou por política. Você também pode usar recursos como a correção em massa para recursos existentes e correção automática para novos recursos, a fim de resolver problemas de maneira rápida e eficaz
+
 
 **_    __________ permite provisionar um grupo de máquinas virtuais correspondentes e com balanceamento de carga no Azure._**
 
