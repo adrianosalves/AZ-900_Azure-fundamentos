@@ -1393,3 +1393,28 @@ D. Uma zona de disponibilidade
     O Lote do Azure permite dimensionar para milhares de máquinas virtuais para ter HPC (computação de alto desempenho) e trabalhos paralelos em grande escala. Outras funcionalidades do Azure permitem dimensionar várias VMs, mas apenas o Lote do Azure permitirá milhares de VMs para HPC.
 
 
+
+Serviços 
+
+a. Bloqueios de recursos do Azure
+1. Provisiona e executa rapidamente novos ambientes com o conhecimento de que eles estão de acordo com os requisitos de conformidade da organização.
+
+B. Azure Blueprints
+2. Impõe padrões e avalia a conformidade em toda a organização
+
+C. Azure Policy
+3. Impede que recursos sejam excluídos ou alterados acidentalmente
+
+
+Descrições
+
+
+a. Bloqueios de recursos do Azure
+1. Provisiona e executa rapidamente novos ambientes com o conhecimento de que eles estão de acordo com os requisitos de conformidade da organização.
+
+B. Azure Blueprints
+2. Impõe padrões e avalia a conformidade em toda a organização
+
+C. Azure Policy
+3. Impede que recursos sejam excluídos ou alterados acidentalmente
+
