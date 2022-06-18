@@ -1441,10 +1441,38 @@ D. Alta disponibilidade
 **Dica:** Devido à distribuição geográfica, você pode implantar aplicativos e dados em data centers regionais em todo o mundo, garantindo assim que os clientes sempre tenham o melhor desempenho em sua região.
 
 
-__________ tem suporte do ExpressRoute para conectar uma rede local ao Azure.
+**___________ tem suporte do ExpressRoute para conectar uma rede local ao Azure._**
+
 a. Uma VPN ponto a site
-B. Uma conexão Ethernet ponto a ponto
+
+**B. Uma conexão Ethernet ponto a ponto(x)**
+
 C. Uma VPN site a site
+
 D. Serviço de Emparelhamento do Azure
+
+**Dica**: 
+
+https://docs.microsoft.com/learn/modules/azure-networking-fundamentals/express-route-fundamentals
+
+Há suporte para uma conexão Ethernet ponto a ponto do ExpressRoute para conectar sua rede local ao Azure.
+Os três modelos compatíveis com o ExpressRoute são:
+
+• Colocação do CloudExchange
+• Conexão Ethernet ponto a ponto
+• Conexão any-to-any
+
+**_Qual recurso do Azure permite organizar várias assinaturas em hierarquias para ter conformidade e políticas unificadas?_**
+
+a. Grupos de recursos
+
+**B. Grupos de gerenciamento(x)**
+
+C. Active Directory do Azure (Azure AD)
+
+D. Instâncias de Contêiner do Azure
+
+**Dica**: Os grupos de gerenciamento ajuda você a gerenciar o acesso, a política e a conformidade de várias assinaturas. Todas as assinaturas em um grupo de gerenciamento herdam automaticamente as condições aplicadas ao grupo de gerenciamento.
+
 
 
