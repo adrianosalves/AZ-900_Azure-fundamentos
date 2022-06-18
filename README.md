@@ -1255,5 +1255,54 @@ D. Azure Policy
 **Dica:** Às vezes, o ambiente de nuvem cresce além de apenas uma assinatura. Nesse caso, o Azure Blueprints ajuda a dimensionar a configuração. O Azure Blueprints ajuda com tarefas repetíveis para que as equipes de desenvolvimento criem e implantem rapidamente novos ambientes e acelerem as fases gerais de desenvolvimento e implantação.
 O Blueprints é uma maneira declarativa de orquestrar a implementação de vários modelos de recursos. https://docs.microsoft.com/pt-br/azure/governance/blueprints/overview. 
 
+**Serviços**
+
+a. IaaS (infraestrutura como serviço)
+
+B. PaaS (plataforma como serviço)
+
+C. SaaS (software como serviço)
+
+ **Descrições**
+
+1. Fornece hospedagem e gerenciamento de um aplicativo e sua infraestrutura subjacente, bem como qualquer manutenção, atualizações e aplicação de patches de segurança
+
+2. Fornece um ambiente totalmente gerenciado para desenvolver, testar, fornecer e gerenciar aplicativos baseados em nuvem
+
+3. Fornece servidores e máquinas virtuais, armazenamento, redes e sistemas operacionais com modelo de pagamento conforme o uso
+
+**Respostas: A=3, B=2, C=1**
+
+**Dica:** 
+IaaS (infraestrutura como serviço) – oferece os ativos de computação, armazenamento e rede necessários sob demanda, com pagamento conforme o uso.
+PaaS (plataforma como serviço) – fornece um ambiente completo de desenvolvimento e implantação na nuvem, com ativos que permitem fornecer aplicativos simples baseados em nuvem, bem como aplicativos empresariais avançados.
+SaaS (software como serviço) – hospedar e gerenciar o aplicativo de software e a infraestrutura subjacente.
+
+**_Qual abordagem de nuvem é usada pelas organizações para aproveitar ao máximo os investimentos em tecnologia local e permite que dados e aplicativos sejam compartilhados entre dois ambientes?_**
+
+a. Nuvem pública
+B. Nuvem privada
+**C. Nuvem híbrida(x)**
+D. Datacenter local
+
+**Dica**: 
+
+Nuvens públicas (por exemplo, o Microsoft Azure) de propriedade e operadas por provedores de serviços de nuvem de terceiros para fornecer seus recursos de computação, como servidores e armazenamento, pela Internet. O Provedor de Nuvem gerencia todo o hardware, o software e outras infraestruturas de suporte.
+Nuvem privada refere-se aos recursos de computação em nuvem usados exclusivamente por uma empresa individual. Uma nuvem privada pode estar fisicamente localizada no data center local da empresa.
+Nuvem híbrida é um tipo de computação em nuvem que combina a infraestrutura local ou uma nuvem privada com uma nuvem pública. Nuvens híbridas permitem que aplicativos e dados se movimentem entre dois ambientes.]
+
+**Selecione a resposta que conclui corretamente a frase.
+___________ copia dados da região primária para uma região secundária em vários datacenters localizados a muitos quilômetros de distância.**
+
+a. Armazenamento Premium
+
+B. ZRS (Armazenamento com redundância de zona)
+
+**C. Armazenamento com redundância geográfica (GRS)(x)**
+
+D. Armazenamento com redundância local (LRS)
+
+**Dica**: GRS (armazenamento com redundância geográfica) – replica seus dados para uma região secundária em localizações geográficas diferentes da região primária.
+
 
 
