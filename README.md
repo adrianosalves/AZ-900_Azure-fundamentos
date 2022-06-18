@@ -1409,6 +1409,9 @@ C. Azure Policy
 
 3. Impede que recursos sejam excluídos ou alterados acidentalmente
 
+
+**Respostas = ???***
+
 **_    __________ permite provisionar um grupo de máquinas virtuais correspondentes e com balanceamento de carga no Azure._**
 
 a. Aplicativos Lógicos do Azure
