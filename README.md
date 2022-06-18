@@ -1304,5 +1304,19 @@ D. Armazenamento com redundância local (LRS)
 
 **Dica**: GRS (armazenamento com redundância geográfica) – replica seus dados para uma região secundária em localizações geográficas diferentes da região primária.
 
+**_Qual opção é usada para definir a comunicação entre um dispositivo VPN local e um gateway de VPN do Azure por meio de um túnel criptografado pela Internet?_**
+
+a. ExpressRoute
+
+B. VPN P2S (Ponto a Site)
+
+**C. VPN de site a site (x)**
+
+**Dica**:
+
+O ExpressRoute permite que você estenda suas redes locais para a nuvem da Microsoft em uma conexão privada com a ajuda de um provedor de conectividade. (Conexão Direta atraves de um link Dedicado Privado Ponto a Ponto).
+
+**VPN site a site:** estabelecida entre o dispositivo VPN local e um Gateway de VPN do Azure implantado em uma rede virtual. Esse tipo de conexão permite que a comunicação entre qualquer recurso local autorize o acesso a uma rede virtual por meio de um túnel criptografado (Atraves da Internet Publica).
+
 
 
