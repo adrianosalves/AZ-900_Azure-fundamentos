@@ -1364,7 +1364,7 @@ C. CLI (Interface de Linha de Comando) do Azure.
 
 D. Modelo do ARM (Azure Resource Manager)
 
-**DIca**: 
+**Dica**: 
 
 O Azure Cloud Shell é um shell interativo, autenticado e acessível por navegador para gerenciar recursos do Azure. Ele proporciona a você a flexibilidade de escolher a experiência de shell mais adequada para o modo como você trabalha, Bash ou PowerShell.
 Você pode acessar o Cloud Shell de três maneiras:
@@ -1373,6 +1373,23 @@ Você pode acessar o Cloud Shell de três maneiras:
 • Snippets de código: em docs.microsoft.com e no Microsoft Learn, selecione o botão Experimentar
 
 
+**_Selecione a resposta que conclui corretamente a frase.
+___________ permite dimensionar para milhares de máquinas virtuais para ter computação de alto desempenho e trabalhos paralelos em grande escala._**
 
+a. Um conjunto de dimensionamento de máquinas virtuais do Azure
+
+B. Um conjunto de disponibilidade
+
+**C. Lote do Azure(x)** 
+
+D. Uma zona de disponibilidade
+
+**Dica:**
+
+(Azure Batch)
+
+    https://docs.microsoft.com/pt-br/learn/modules/azure-compute-fundamentals/azure-virtual-machines
+​
+    O Lote do Azure permite dimensionar para milhares de máquinas virtuais para ter HPC (computação de alto desempenho) e trabalhos paralelos em grande escala. Outras funcionalidades do Azure permitem dimensionar várias VMs, mas apenas o Lote do Azure permitirá milhares de VMs para HPC.
 
 
