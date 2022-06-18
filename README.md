@@ -1191,3 +1191,28 @@ SLA  / Tempo de inatividade por mes
 
 - Geralmente disponivel (GA) podem  usar o recursos disponivel para utilização;
 
+# SIMULAÇÂO:
+
+**_Qual recurso do Azure AD (Azure Active Directory) é usado para fornecer acesso a recursos com base em políticas organizacionais?_**
+
+a. MFA (autenticação multifator)
+
+B. SSO (logon único)
+
+C. unidades administrativas
+
+**D. Acesso condicional (x)**
+
+**Dica:** O Acesso Condicional é a ferramenta usada pelo Azure Active Directory para permitir (ou negar) o acesso a recursos com base em sinais de identidade. O acesso condicional é um método de MFA (autenticação multifator) mais refinado.
+
+**_O SSO (logon único) é um método de ___________ que permite que os usuários entrem pela primeira vez e acessem vários aplicativos e recursos usando a mesma senha._**
+
+a. validação
+
+**B. autenticação(x)**
+
+C. configuração
+
+D. autorização
+
+
