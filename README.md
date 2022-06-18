@@ -1322,9 +1322,15 @@ O ExpressRoute permite que você estenda suas redes locais para a nuvem da Micro
 
 a. Regiões do Azure
 
-**B. Grupos de recursos**
+**B. Grupos de recursos(x)**
 
 C. Grupos de gerenciamento
 
 D. Unidades administrativas
+
+**Dicas:** Os recursos do Azure são combinados em grupos de recursos, que atuam como um contêiner lógico no qual os recursos do Azure, como aplicativos Web, bancos de dados e contas de armazenamento, são implantados e gerenciados. 
+
+
+
+
 
